@@ -1,0 +1,10 @@
+module zzvcom{
+    module cbrtest{
+        interface Calc{
+                void add(in long a,in long b,out long c);
+                void sub(in long a,in long b,out long c);
+                void muti(in long a,in long b,out long c);
+                void div(in long a,in long b,out long c);
+        };
+};
+};
