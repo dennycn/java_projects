@@ -4,7 +4,7 @@
 - 2018/6/10 add eclipse workset, add eclise prjoect file to each directory
 
 ---
-## beief
+## brief
 java_projects: some projects use java
 * java_application: Run As - Java Application, New - Java Project
   - swing: GUI, 1998 appears

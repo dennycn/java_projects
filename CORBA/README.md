@@ -89,7 +89,7 @@ public class HelloClient{
 ## 五、启动CORBA服务器
 ```
 # 先编译所有的Java文件：
-$ javac -Xlint:unchecked -d . *.java
+$ javac -Xlint:unchecked -encoding utf-8 -d . *.java
 
 # 运行：orbd -ORBInitiaPort [] -ORBInitiaHost []
 $ orbd -ORBInitialPort 1050 -ORBInitialHost 127.0.0.1
